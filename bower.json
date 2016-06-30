@@ -1,0 +1,16 @@
+{
+  "name": "my-portfolio",
+  "description": "My portfolio",
+  "authors": [
+    "Eric Leblanc"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ericleb010/portfolio.git"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "react": "^15.1.0"
+  }
+}
